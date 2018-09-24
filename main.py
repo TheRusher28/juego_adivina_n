@@ -1,3 +1,8 @@
+__author__ = 'TheRusher28'
+__mantainer__ = 'TheRusher28'
+__email__ = 'therusher28@gmail.com'
+__status__ = 'Beginner'
+
 numero_elegido = input("¿Qué número escoges para que tu amigo lo adivine? (Del 0 al 100) ")
 numero_adivinado = 0
 time = 10
